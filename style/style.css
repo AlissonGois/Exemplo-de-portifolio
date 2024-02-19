@@ -133,6 +133,7 @@ body{
     font-size: 1.5rem;
     font-family: var(--fonte-secundaria);
     text-align: center;
+    padding: 24px;
 }
 
 /*Trabalhando nas responsividades*/
